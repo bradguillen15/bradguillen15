@@ -25,7 +25,7 @@
 [![Frameworks](https://skillicons.dev/icons?i=react,nodejs,nextjs,express,graphql,webpack,vite,jest,spring,wordpress&perline=10)](https://skillicons.dev)
 
 ### Styling
-[![Styling](https://skillicons.dev/icons?i=tailwind,css,html&perline=6)](https://skillicons.dev)
+[![Styling](https://skillicons.dev/icons?i=tailwind,css,html,sass&perline=6)](https://skillicons.dev)
 
 ### Databases
 [![Databases](https://skillicons.dev/icons?i=mysql,postgres,mongodb&perline=6)](https://skillicons.dev)
