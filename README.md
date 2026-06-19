@@ -1,7 +1,4 @@
 <div align="center">
-
-# Hi, I'm Brad Guillen 👋
-
 ### Senior Web Developer · Costa Rica 🇨🇷
 
 8+ years building production-grade React applications. Currently at Keller Williams leading frontend architecture across micro-frontend systems. Actively expanding into AI engineering with the Claude API and MCP.
