@@ -110,6 +110,6 @@ AI-powered crypto futures sentiment tool built with the Claude API. Combines liv
 
 <div align="center">
 
-**Spanish (Native) · English (C1)
+**Spanish (Native) · English (C1)**
 
 </div>
