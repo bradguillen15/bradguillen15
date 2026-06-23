@@ -67,6 +67,15 @@ This personal portfolio — split-panel layout, custom cursor, typewriter effect
 
 ---
 
+### [FreeSlot — AI Time-Awareness Planner](https://github.com/bradguillen15/free-slot)
+Find the free time you didn't know you had. Sketch your fixed weekly schedule, log what you actually do, and FreeSlot surfaces the empty windows in your week — then a **Claude-powered planner** proposes how to fill them with what matters. Works fully offline as a guest (`localStorage`); an account unlocks AI planning, cross-device sync, and weekly insights. Built test-first (Vitest + Playwright E2E) with full i18n (EN/ES).
+
+[![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/bradguillen15/free-slot)
+[![WIP](https://img.shields.io/badge/Status-Nearly%20Complete-brightgreen?style=flat-square)](https://github.com/bradguillen15/free-slot)
+`React` `TypeScript` `Vite` `Supabase` `Claude API` `Edge Functions` `Tailwind CSS` `Playwright`
+
+---
+
 ### [Plan Estratégico DREA](https://github.com/bradguillen15/plan-estrategico-drea)
 Digital management system for the DREA regional strategic plan (MEP Costa Rica). Digitalizes objective tracking, operational plans, supervision, roles, audit trail, and Excel/CSV/PDF export.
 
