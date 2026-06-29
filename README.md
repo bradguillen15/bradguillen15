@@ -1,4 +1,3 @@
-
 I'm Brad, a senior software engineer from Costa Rica with ~10 years building production software — mostly **React** and **TypeScript** at scale.
 
 I spent 5+ years at Keller Williams on micro-frontend architecture: consolidating repos, simplifying state management, and optimizing performance on long-lived products. I'm now between roles and building AI-powered side projects with the **Claude API** and **MCP** — while deepening backend skills through structured coursework.
