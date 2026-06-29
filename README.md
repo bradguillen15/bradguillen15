@@ -10,6 +10,9 @@ I spent 5+ years at Keller Williams on micro-frontend architecture: consolidatin
 - [**Sentiment**](https://github.com/bradguillen15/futures-crypto) — crypto futures assistant combining market data with Claude chat (in active development)
 - [**Portfolio**](https://github.com/bradguillen15/resume) — production site at [bradguillen.com](https://bradguillen.com) with Firebase + GitHub Actions
 
+**Guided coursework**
+- [**RAG Search Engine**](https://github.com/bradguillen15/rag-search-engine) — Boot.dev RAG course; hybrid search + Gemini-powered Q&A over movie metadata
+
 **Courses & certifications**
 - Anthropic — Claude API, Model Context Protocol, Agent Skills
 - [Boot.dev](https://www.boot.dev/u/bradgg) backend path — AWS, Docker, CI/CD, RAG (in progress)
